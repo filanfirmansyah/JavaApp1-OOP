@@ -6,8 +6,8 @@ public class Javaaplication1
 		Hewan b = new Hewan();
 		Telepon c = new Telepon();
 
-		boolean value = true;
-		String output = Boolean.toString(value);
+// 		boolean value = true;
+// 		String output = Boolean.toString(value);
 
 		System.out.println("Manusia: ");
 		System.out.println("Bermain: " + a.bermain("Sepak Bola"));
